@@ -1,0 +1,19 @@
+.nav-gue {
+	background-color: #F3E367;
+	height: 100px;
+}
+	
+
+.logo1 {
+	position: absolute;
+	height: 80px;
+	width: 90px;
+	top: 15px;
+	left: 80px;
+}
+
+.link-1 {
+	position: absolute;
+	left: 900px;
+	top: 10px;
+}

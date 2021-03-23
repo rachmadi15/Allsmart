@@ -1,0 +1,116 @@
+body {
+	background: #929d9e;
+	height: 1100px;
+}
+
+
+.dasar {
+	position: absolute;
+	width: 1260px;
+	height: 1000px;
+	left: 48px;
+	top: 48px;
+
+	background: #f3e367;
+	border-radius: 20px;
+}
+
+.logo1 {
+	position: absolute;
+	width: 80px;
+	height: 83.33px;
+	left: 130px;
+	top: 30px;
+}
+
+.tabel-1 {
+	position: absolute;
+	left: 500px;
+	padding-right: 30px;
+	top: 60px;
+}
+
+.link-1 {
+	margin-right: 60px;
+	color: black;
+}
+
+.link-4 {
+	margin-left: 50px;
+	color: black;
+}
+
+.divider {
+	position: absolute;
+	width: 37.05px;
+	height: 0px;
+	left: 440px;
+	top: 0px;
+
+	border: 1px solid #000000;
+	transform: rotate(-90deg);
+}
+
+
+.dalam-1 {
+	margin-top: 170px;
+}
+
+.logo2 {
+	position: absolute;
+	width: 600px;
+	height: 490px;
+}
+
+.link-2 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 36px;
+	text-align: center;
+}
+
+.link-3 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	line-height: 42px;
+	text-align: center;
+}
+
+.btn-1 {
+	position: absolute;
+	width: 120px;
+	height: 53px;
+	left: 100px;
+	top: 340px;
+}
+
+.btn-2 {
+	position: absolute;
+	width: 120px;
+	height: 53px;
+	left: 260px;
+	top: 340px;
+}
+
+
+footer {
+	position: absolute;
+	width: 1260px;
+	height: 100px;
+	top: 900px;
+	left: 0px;
+	background: #7F8688;
+}
+
+
+.link-5 {
+	color: black;
+}
+
+.daftar {
+	color: black;
+}
